@@ -1,0 +1,3 @@
+# News_scraper-from-hindustan-times
+This allows you to extract the main headlines from the "first page" alone for now..
+Future version will include upto 50 news headlines,choice to select news websites,select various news categories...
