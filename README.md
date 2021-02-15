@@ -1,6 +1,6 @@
 # News Scraper from Hindustan Times
 
-This simple single file helps you to extract the main headlines from the first page of the Hindustan Times website https://news.ycombinator.com/ through Node.js. 
+This simple single file helps you to extract the main headlines from the first page of the Hindustan Times website https://www.hindustantimes.com/ through Node.js. 
 
 ## Dependencies
 
