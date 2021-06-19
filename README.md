@@ -1,15 +1,11 @@
-# News Scraper from Hindustan Times
+# News Scraper for Hindustan Times
 
-This simple single file helps you to extract the main headlines from the first page of the Hindustan Times website https://www.hindustantimes.com/ through Node.js. 
+This is a test file that helps to extract the main headlines from the first page of the Hindustan Times website https://www.hindustantimes.com/ through Node.js. 
 
 ## Dependencies
 
-`puppeteer` and `cheerio` are two Node.js packages which are required by given scipt, these can be installed using `npm install puppeteer cheerio` 
+`puppeteer` and `cheerio` are Node.js packages that are required by the app, they can be installed using `npm install puppeteer cheerio` 
 
 ## Usage
 
-Simply invoke the script from where it has been saved to using `node scrape.js`
-
-## Version History
-
-Future version will include upto 50 news headlines, choice to select news websites, select various news categories.
+Invoke the app from where it has been placed by using `node scrape.js`
